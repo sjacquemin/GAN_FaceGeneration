@@ -31,7 +31,7 @@ http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 ### Instructions
 
-Please proceed to the jupyter notebook `dlnd_face_generation.ipynb` located in this same repository.  I have thoroughly documented this notebook with a step-by-step implementation.
+Please proceed to the jupyter notebook `dlnd_face_generation.ipynb` located in this same repository.  I have thoroughly documented this notebook with a step-by-step implementation.  Note that I did not upload the images dataset due to its size, so the notebook will not be functional.  This repository is intended for review of the code only vs running it.
 
 Please reach out to me at stephen.jacquemin@gmail.com if you have any questions.
 
