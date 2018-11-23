@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/celebfaces.png "Sample Faces"
+[image1]: ./celebfaces.png "Sample Faces"
 
 ## Project Overview
 
